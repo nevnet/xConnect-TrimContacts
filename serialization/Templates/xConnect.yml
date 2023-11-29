@@ -2,7 +2,7 @@
 ID: "706e348f-00fd-4816-9f7a-5bf00ffb1cef"
 Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Foundation/xDB
+Path: /sitecore/templates/Foundation/xConnect
 DB: master
 Languages:
 - Language: en
