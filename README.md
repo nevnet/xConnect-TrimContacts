@@ -1,4 +1,4 @@
-# xConnect Contact & Interaction Purge Commans
+# xConnect Contact & Interaction Purge Command
 This scheduled Sitecore job can be configured to periodically remove contacts and interaction data in xConnect older than X days.
 
 This is immensely useful to prevent your xConnect shards from growing indefinitely. You can effectively cap the size of the shards or limit their growth rate, preventing the need to constantly re-shard or scale up/out the xDB shard databases.
