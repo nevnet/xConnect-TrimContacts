@@ -2,7 +2,7 @@
 ID: "64b98586-0fb6-479f-90c6-0edd709accbe"
 Parent: "03008d04-811b-47ab-8ba0-a0c864e6c2c6"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Foundation/xDB/CommandWithParameters/Data/Parameters
+Path: /sitecore/templates/Foundation/xConnect/CommandWithParameters/Data/Parameters
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
