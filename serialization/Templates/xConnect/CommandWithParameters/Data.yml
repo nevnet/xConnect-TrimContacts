@@ -2,7 +2,7 @@
 ID: "03008d04-811b-47ab-8ba0-a0c864e6c2c6"
 Parent: "4679a01c-eace-4f0b-9b40-520805af73c0"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Foundation/xDB/CommandWithParameters/Data
+Path: /sitecore/templates/Foundation/xConnect/CommandWithParameters/Data
 DB: master
 Languages:
 - Language: en
